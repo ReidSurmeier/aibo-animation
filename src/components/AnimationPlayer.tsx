@@ -4,7 +4,7 @@ import { Player } from "@remotion/player";
 import { AiboLogo } from "@/remotion/AiboLogo";
 
 const FPS = 30;
-const DURATION_SECONDS = 8;
+const DURATION_SECONDS = 4.4;
 
 export default function AnimationPlayer() {
   return (
